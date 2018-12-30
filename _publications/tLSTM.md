@@ -3,3 +3,4 @@ title: "Wider and Deeper, Cheaper and Faster: Tensorized LSTMs for Sequence Lear
 collection: publications
 permalink: /publication/tLSTM
 citation: '<b>Zhen He</b>, Shaobing Gao, Liang Xiao, Daxue Liu, Hangen He, David Barber.<br/>In <i>Advances in Neural Information Processing Systems</i> (<b>NIPS 2017</b>), Long Beach, USA.'
+---
