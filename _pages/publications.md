@@ -1,16 +1,9 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>Zhen He</b>, Shaobing Gao, Liang Xiao, Daxue Liu, Hangen He, David Barber.
+<b>[Wider and Deeper, Cheaper and Faster: Tensorized LSTMs for Sequence Learning.](http://papers.nips.cc/paper/6606-wider-and-deeper-cheaper-and-faster-tensorized-lstms-for-sequence-learning)</b>
+In <i>Advances in Neural Information Processing Systems</i> (<b>NIPS 2017</b>), Long Beach, USA.
