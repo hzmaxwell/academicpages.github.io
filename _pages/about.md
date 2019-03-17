@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor in Beijing Institute of Basic Medical Sciences. Currently, I'm focusing on using machine learning to tackle biological problems---in order to make human live better.
-Previously I was using machine learing for scene perception and path planning in autonomous driving, and earned my PhD and MSc degrees from NUDT in 2018 and 2013, respectively. During 2016--2018, I was a visiting student in UCL computer science.
 
-# Research interest:
+I'm an assistant professor in Beijing Institute of Basic Medical Sciences.
+Currently, I'm studying the applications of machine learning in biological data analysis.
+I was previously working on machine learing techniques for scene perception and path planning in autonomous driving, and earned my PhD and MSc degrees from NUDT in 2018 and 2013, respectively.
+During 2016--2018, I was a visiting student in UCL computer science.
+
+
+# Research Interest:
 * **Machine learning**: deep learning, recurrent neural networks, unsupervised learning, Bayesian statistics.
-* **Bioinformatics**: single-cell genomics, single-cell transcriptomics.
+* **Bioinformatics**: genomics, transcriptomics, single-cell analysis.
 * **Computer vision**: image segmentation, object detection, object tracking, depth estimation, image reconstruction.
+* **Natural language processing**: language modeling, machine translation.
 * **Robotics**: path plannig, motion planning.
 
 
