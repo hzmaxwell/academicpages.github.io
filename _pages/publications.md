@@ -4,7 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<br>
 
 **Zhen He**, Jian Li, Daxue Liu, Hangen He, David Barber.<br>
 **<span style="color:#52adc8">Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers</span>**. [To appear]<br>
