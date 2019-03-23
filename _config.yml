@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhen He"
 title_separator          : "-"
 name                     : &name "Zhen He"
-description              : &description "Machine learning researcher"
+description              : &description "Computational biologist & Machine learning researcher"
 url                      : https://hzmaxwell.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hzmaxwell/hzmaxwell.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhen He"
   avatar           : "profile.png"
-  bio              : "Machine learning researcher"
+  bio              : "Computational biologist & Machine learning researcher"
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=QqEjf18AAAAJ&hl=en"
