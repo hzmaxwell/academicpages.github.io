@@ -1,10 +1,10 @@
 ---
-title: "Publications"
+title: "Publications (Selected)"
 permalink: /publications/
 author_profile: true
 ---
 
-
+For the full publications please see my [google scholar](https://scholar.google.co.uk/citations?user=QqEjf18AAAAJ&hl=en).
 
 **<span style="color:#52adc8">Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers</span>** [To appear]<br>
 **Zhen He**, Jian Li, Daxue Liu, Hangen He, David Barber<br>
