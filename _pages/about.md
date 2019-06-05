@@ -15,7 +15,7 @@ I was previously working on machine learing techniques for scene perception and 
 During 2016--2018, I was a visiting student at UCL computer science.
 
 
-# Research Interest:
+# Research Interest
 * **Machine learning**: deep learning, recurrent neural networks, unsupervised learning, Bayesian statistics.
 * **Bioinformatics**: genomics, transcriptomics, single-cell analysis.
 * **Computer vision**: image segmentation, object detection, object tracking, depth estimation, image reconstruction.
