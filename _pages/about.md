@@ -11,7 +11,7 @@ redirect_from:
 
 I'm an assistant professor at Beijing Institute of Basic Medical Sciences.
 Currently, I'm studying the applications of machine learning to biological data.
-I was previously working on machine learing techniques for scene perception and path planning in autonomous driving, and earned my PhD and MSc degrees from NUDT in 2018 and 2013, respectively.
+I was previously working on machine learing techniques for scene perception and path planning in autonomous driving, and earned my PhD degree from NUDT in 2018.
 During 2016--2018, I was a visiting student at UCL computer science.
 
 
