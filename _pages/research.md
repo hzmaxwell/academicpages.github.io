@@ -9,8 +9,6 @@ author_profile: true
 
 **<span style="color:#52adc8">Deep generative models for single-cell gene expression data analysis</span>**<br>
 
-**<span style="color:#52adc8">Neuroscience-inspired machine learning</span>**<br>
-
 
 ## Past Projects
 
