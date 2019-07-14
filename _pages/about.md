@@ -23,8 +23,3 @@ During 2016--2018, I was a visiting student at UCL computer science.
 * **Robotics**: path plannig, motion planning.
 
 
-# News
-* 03/2019: I'll be a reviewer for NeurIPS 2019.
-* 03/2019: Our "tracking-by-animation" paper is accepted by CVPR 2019.
-* 11/2018: I'll be a reviewer for ICML 2019.
-* 09/2017: Our "tensorized LSTM" paper is accepted by NIPS 2017.
