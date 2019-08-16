@@ -23,4 +23,4 @@ IEEE Intelligent Vehicles Symposium (**IV**), 2015
 
 **<span style="color:#52adc8">Robust Road Detection from A Single Image Using Road Shape Prior</span>** [[Paper](https://www.researchgate.net/publication/271554662_Robust_road_detection_from_a_single_image_using_road_shape_prior)]<br>
 **Zhen He**, Tao Wu, Zhipeng Xiao, Hangen He<br>
-IEEE International Conference on Image Processing (**ICIP**), 2013 (**<span style="color:#dc572e">Oral presentation</span>**)
+IEEE International Conference on Image Processing (**ICIP**), 2013 (<span style="color:#dc572e">Oral presentation</span>)
