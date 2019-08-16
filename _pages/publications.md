@@ -20,11 +20,6 @@ Advances in Neural Information Processing Systems (**NIPS**), 2017
 Xiaohui Li, Zhenping Sun, **Zhen He**, Qi Zhu, Daxue Liu<br>
 IEEE Intelligent Vehicles Symposium (**IV**), 2015
 
-<b> [Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives]() </b>  <br>
-<b>Yi Tay</b>, Shuohang Wang, Anh Tuan Luu, Jie Fu, Minh C. Phan, Xingdi Yuan, Jinfeng Rao, Siu Cheung Hui, Aston Zhang <br>
-<i> Proceedings of ACL 2019 (Long Paper, Oral Presentation) </i> <br>
-<img src="/images/ntu.png" width="60" height="30"><img src="/images/smu.png" width="60" height="30"> <img src="/images/mit.png" width="60" height="30" hspace="4"> <img src="/images/mila.png" width="60" height="30">  <img src="/images/microsoft.png" width="60" height="30"><img src="/images/facebook.png" width="60" height="30"><img src="/images/amazon.jpeg" width="60" height="30" hspace="4"> <br>
-[PDF](https://arxiv.org/pdf/1905.10847) |  <br>
 
 **<span style="color:#52adc8">Robust Road Detection from A Single Image Using Road Shape Prior</span>** [[Paper](https://www.researchgate.net/publication/271554662_Robust_road_detection_from_a_single_image_using_road_shape_prior)]<br>
 **Zhen He**, Tao Wu, Zhipeng Xiao, Hangen He<br>
