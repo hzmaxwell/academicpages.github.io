@@ -1,7 +1,7 @@
 ---
 title: 'Summer School'
 date: 2019-08-30
-permalink: /posts/2019/08/summer-school/
+permalink: /blogs/2019/08/summer-school/
 tags:
   - cool posts
   - category1
