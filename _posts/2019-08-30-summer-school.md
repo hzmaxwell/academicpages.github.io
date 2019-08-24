@@ -2,6 +2,7 @@
 title: 'Summer School'
 date: 2019-08-30
 permalink: /blogs/2019/08/summer-school/
+author_profile: false
 tags:
   - cool posts
   - category1
