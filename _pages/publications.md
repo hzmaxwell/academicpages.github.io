@@ -1,7 +1,7 @@
 ---
 title: "Publications (Selected)"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 For the full publications please view my [google scholar](https://scholar.google.co.uk/citations?user=QqEjf18AAAAJ&hl=en).
