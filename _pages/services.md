@@ -9,4 +9,4 @@ author_profile: false
 
 **2020**: AAAI
 
-**2019**: NeurIPS (top 50%), ICML
+**2019**: NeurIPS (<span style="color:#dc572e">top 50%</span>), ICML
