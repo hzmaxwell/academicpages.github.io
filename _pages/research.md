@@ -7,7 +7,7 @@ author_profile: false
 
 ## Current Projects
 
-**<span style="color:#52adc8">Deep generative models for single-cell gene expression data analysis</span>**<br>
+**<span style="color:#52adc8">Deep generative models for transcriptomics</span>**<br>
 
 
 ## Past Projects
