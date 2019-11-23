@@ -6,6 +6,8 @@ author_profile: false
 
 For the full publications please view my [google scholar](https://scholar.google.co.uk/citations?user=QqEjf18AAAAJ&hl=en).
 
+***
+
 **<span style="color:#52adc8">Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers</span>** [[Paper](https://www.researchgate.net/publication/332246376_Tracking_by_Animation_Unsupervised_Learning_of_Multi-Object_Attentive_Trackers)] [[Code](https://github.com/zhen-he/tracking-by-animation)]<br>
 **Zhen He**, Jian Li, Daxue Liu, Hangen He, David Barber<br>
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019
@@ -24,3 +26,9 @@ IEEE Intelligent Vehicles Symposium (**IV**), 2015
 **<span style="color:#52adc8">Robust Road Detection from A Single Image Using Road Shape Prior</span>** [[Paper](https://www.researchgate.net/publication/271554662_Robust_road_detection_from_a_single_image_using_road_shape_prior)]<br>
 **Zhen He**, Tao Wu, Zhipeng Xiao, Hangen He<br>
 IEEE International Conference on Image Processing (**ICIP**), 2013 (<span style="color:#dc572e">Oral presentation</span>)
+
+***
+
+**<span style="color:#52adc8">Recurrent Neural Architectures for Scene Perception in Autonomous Driving</span>** [[Abstract](../files/abs_phd.pdf)]<br>
+**Zhen He**<br>
+PhD Thesis, 2018
