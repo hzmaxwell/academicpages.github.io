@@ -12,6 +12,12 @@ tags:
 
 My summary of attending NeurIPS 2019.
 
+
+<p align="center">
+    <img src="images/neurips-2019.jpg" width="500"/>
+</p>
+
+
 ## 1. Overview
 
 - **Links**: [conference website](https://neurips.cc/), [videos & slides](https://slideslive.com/neurips/)
