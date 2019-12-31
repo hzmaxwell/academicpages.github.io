@@ -1,7 +1,7 @@
 ---
-title: 'NeurIPS 2019 Summary'
+title: 'Attending NeurIPS---A Summary'
 date: 2019-12-23
-permalink: /blogs/2019/12/neurips-2019/
+permalink: /blogs/2019/12/neurips-2019-summary/
 author_profile: false
 tags:
   - conference
@@ -12,7 +12,7 @@ tags:
 My summary of attending NeurIPS 2019.
 
 
-### 1. Overview
+## 1. Overview
 
 - **Links**: [conference website](https://neurips.cc/), [videos & slides](https://slideslive.com/neurips/)
 - **Location**: Vancouver Convention Center, Vancouver, Canada
@@ -24,7 +24,7 @@ My summary of attending NeurIPS 2019.
   Expo (Industry) | Tutorials | Conference Sessions | Workshops
 
 
-### 2. Trends
+## 2. Trends
 
 - Interpretable deep learning
 - Deep learning with Bayesian methods
@@ -35,7 +35,7 @@ My summary of attending NeurIPS 2019.
 Reference: [Key trends from NeurIPS 2019](https://huyenchip.com/2019/12/18/key-trends-neurips-2019.html) by Chip Huyen ([Chinese version](https://mp.weixin.qq.com/s/lj5B81hQumfJGYkgSfNVTg))
 
 
-### 3. My Focuses
+## 3. My Focuses
 
 - **Bayesian Methods and Deep Learning**
   - [Deep Learning with Bayesian Principles](https://slideslive.com/38921489/deep-learning-with-bayesian-principles) (Tutorial, Dec 9)
@@ -50,12 +50,12 @@ Reference: [Key trends from NeurIPS 2019](https://huyenchip.com/2019/12/18/key-t
 
 
 
-### 4. Thoughts
+## 4. Thoughts
 
 - Existing machine learning techniques are readily applicable for many biological problems.
 - Poster sessions are my favourite.
 - Social events can be more efficient if planned.
-- Find time to sneak out :grin:.
+- Find time to sneak out :)
 - Attending such a conference is not easy, but really worthy!
 
 
