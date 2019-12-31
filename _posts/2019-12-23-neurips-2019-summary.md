@@ -10,9 +10,7 @@ tags:
   - computational biology
 ---
 
-
 My summary of attending NeurIPS 2019.
-
 
 ## 1. Overview
 
