@@ -6,6 +6,8 @@ author_profile: false
 tags:
   - conference
   - machine learning
+  - bayesian methods
+  - computational biology
 ---
 
 
