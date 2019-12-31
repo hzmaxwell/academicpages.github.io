@@ -1,5 +1,5 @@
 ---
-title: 'Attending NeurIPS---A Summary'
+title: 'NeurIPS 2019 Summary'
 date: 2019-12-23
 permalink: /blogs/2019/12/neurips-2019-summary/
 author_profile: false
