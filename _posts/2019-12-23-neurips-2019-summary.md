@@ -14,7 +14,7 @@ My summary of attending NeurIPS 2019.
 
 
 <p align="center">
-    <img src="images/neurips-2019.jpg" width="500"/>
+    <img src="../images/neurips-2019.jpg" width="500"/>
 </p>
 
 
