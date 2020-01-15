@@ -1,7 +1,7 @@
 ---
-title: 'NeurIPS 2019 Summary'
+title: 'Attending NeurIPS 2019'
 date: 2019-12-23
-permalink: /blogs/2019/12/neurips-2019-summary/
+permalink: /blogs/2019/12/attending-neurips-2019/
 author_profile: false
 tags:
   - conference
