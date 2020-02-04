@@ -62,7 +62,7 @@ Reference: [Key trends from NeurIPS 2019](https://huyenchip.com/2019/12/18/key-t
 - Poster sessions are my favourite.
 - Social events can be more efficient if planned.
 - Find time to sneak out :)
-- Attending such a conference is not easy, but really worthy!
+- Attending such a conference is not easy (with a lot of things to do), but really worthy!
 
 
 
