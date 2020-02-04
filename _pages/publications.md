@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-For the full publications please view my [google scholar](https://scholar.google.co.uk/citations?user=QqEjf18AAAAJ&hl=en).
+For the full publications please view my [Google Scholar](https://scholar.google.co.uk/citations?user=QqEjf18AAAAJ&hl=en).
 
 ***
 
