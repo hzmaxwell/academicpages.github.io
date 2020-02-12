@@ -20,7 +20,7 @@ My summary of attending NeurIPS 2019.
 
 ## 1. Overview
 
-- **Links**: [conference website](https://neurips.cc/), [videos & slides](https://slideslive.com/neurips/)
+- **Links**: [conference website](https://neurips.cc/Conferences/2019), [videos & slides](https://slideslive.com/neurips/)
 - **Location**: Vancouver Convention Center, Vancouver, Canada
 - **Attendees**: Over 13,000
 - **Schedule**:
