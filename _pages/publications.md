@@ -8,6 +8,11 @@ For the full publications please view my [Google Scholar](https://scholar.google
 
 ***
 
+**<span style="color:#52adc8">Tone Mapping Beyond the Classical Receptive Field</span>** [[Paper](https://www.researchgate.net/publication/339090090_Tone_Mapping_Beyond_the_Classical_Receptive_Field)]<br>
+Shaobing Gao, Minjie Tan, **Zhen He**, Yongjie Li<br>
+IEEE Transactions on Image Processing (**TIP**), 2020
+
+
 **<span style="color:#52adc8">Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers</span>** [[Paper](https://www.researchgate.net/publication/332246376_Tracking_by_Animation_Unsupervised_Learning_of_Multi-Object_Attentive_Trackers)] [[Code](https://github.com/zhen-he/tracking-by-animation)]<br>
 **Zhen He**, Jian Li, Daxue Liu, Hangen He, David Barber<br>
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019
