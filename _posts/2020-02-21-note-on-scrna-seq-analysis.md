@@ -8,6 +8,7 @@ tags:
   - computational biology
 ---
 
+
 A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 
 
@@ -41,9 +42,9 @@ A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 - To remove outlier barcode data produced by dying cells, broken cells, doublets, etc.
 
 **Covariates used for thresholding**:
-- the number of counts per barcode (count depth)
-- the number of genes per barcode
-- the fraction of counts from mitochondrial genes per barcode
+- The number of counts per barcode (count depth)
+- The number of genes per barcode
+- The fraction of counts from mitochondrial genes per barcode
 
 **Notes**:
 - Consider all covariates jointly
@@ -70,16 +71,16 @@ A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 - To further remove unwanted technical and biological variation
 
 **Source of variation**:
-- technical effects
-  - count depth
-  - batch
-    - between cell groups in an experiment (solution: batch correction)
-    - between experiments in a laboratory (solution: data integration)
-    - between datasets from different laboratories (solution: data integration)
-  - dropout (solution: imputation/denoising/expression recovery)
-- biological effects
-  - cell cycle
-  - mitochondrial gene expression
+- Technical effects
+  - Count depth
+  - Batch
+    - Between cell groups in an experiment (solution: batch correction)
+    - Between experiments in a laboratory (solution: data integration)
+    - Between datasets from different laboratories (solution: data integration)
+  - Dropout (solution: imputation/denoising/expression recovery)
+- Biological effects
+  - Cell cycle
+  - Mitochondrial gene expression
 
 **Notes**:
 - Corrected data can also be used for visual comparison of gene expression 
