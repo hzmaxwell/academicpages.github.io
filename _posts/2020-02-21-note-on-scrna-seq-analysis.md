@@ -11,6 +11,10 @@ tags:
 A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 
 
+<p align="center">
+    <img src="https://hzmaxwell.github.io/images/scrna-seq.png" width="600"/>
+</p>
+
 
 
 ## Contents
