@@ -60,7 +60,7 @@ A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 
 **Notes**:
 - It's more common to normalize the count data by cells than by genes
-- Normalized data should be `$\log(x+1)$`-transformed for downstream analysis that assumes data are normally distributed
+- Normalized data should be log(x+1)-transformed for downstream analysis that assumes data are normally distributed
 - Quality-controlled or normalized data can also be used for statistical testing of gene expression
 
 <div style="text-align: right">[<a href="#contents">back to top</a>]</div>
