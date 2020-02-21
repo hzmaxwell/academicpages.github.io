@@ -10,7 +10,9 @@ tags:
 
 A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 
-</br>
+
+<p align="center"></p>
+
 
 ## Contents
 - [1. Pre-Processing](#1-pre-processing)
