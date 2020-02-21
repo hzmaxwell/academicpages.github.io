@@ -12,11 +12,11 @@ A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 
 
 <p align="center">
-    <img src="https://hzmaxwell.github.io/images/scrna-seq.jpg" width="600"/>
+    <img src="https://hzmaxwell.github.io/images/scrna-seq.png" width="600"/>
 </p>
 
 
-## Contents
+# Contents
 
 - [1. Pre-Processing](#1-pre-processing)
   - [1.1 Quality Control](#11-quality-control)
@@ -29,13 +29,13 @@ A brief note highlighting the workflow of single-cell RNA-seq data analysis.
   - [2.3 Gene-Level Analysis](#23-gene-level-analysis)
 - [References](#references)
 
-## 1. Pre-Processing
+# 1. Pre-Processing
 
 **Goal**:
 - To pre-process the scRNA-seq count matrices so as to obtain different levels of pre-processed data for different downstream analyses
 
 
-### 1.1 Quality Control
+## 1.1 Quality Control
 
 **Goal**:
 - To remove outlier barcode data produced by dying cells, broken cells, doublets, etc.
@@ -52,7 +52,7 @@ A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 
 <div style="text-align: right">[<a href="#contents">back to top</a>]</div>
 
-### 1.2 Normalization
+## 1.2 Normalization
 
 **Goal**:
 - To remove unwanted technical variation coming from count sampling
@@ -64,7 +64,7 @@ A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 
 <div style="text-align: right">[<a href="#contents">back to top</a>]</div>
 
-### 1.3 Data Correction
+## 1.3 Data Correction
 
 **Goal**:
 - To further remove unwanted technical and biological variation
@@ -88,12 +88,12 @@ A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 <div style="text-align: right">[<a href="#contents">back to top</a>]</div>
 
 
-### 1.4 Dimensionality Reduction
+## 1.4 Dimensionality Reduction
 
 **Goal**:
 - To summarize and visualize the data in order to make downstream analysis computationally easier and more intuitive
 
-#### Notes:
+**Notes**:
 - Typically 1,000 to 5,000 highly variable genes are firstly selected via feature selection
 - The feature number is further reduced by dedicated dimensionality reduction algorithms
 - Dimensionality reduction methods should be considered separately for summarization and visualization
@@ -101,12 +101,12 @@ A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 
 <div style="text-align: right">[<a href="#contents">back to top</a>]</div>
 
-## 2. Downstream Analysis
+# 2. Downstream Analysis
 
 **Goal**:
 - To extract biological insights and describe the underlying biological system
 
-### 2.1 Cluster Analysis
+## 2.1 Cluster Analysis
 
 **Goal**:
 - To explain the heterogeneity in the data based on a categorization of cells into groups
@@ -120,7 +120,7 @@ A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 <div style="text-align: right">[<a href="#contents">back to top</a>]</div>
 
 
-### 2.2 Trajectory Analysis 
+## 2.2 Trajectory Analysis 
 
 **Goal**:
 - To regard the data as a snapshot of a dynamic process and investigate this underlying process
@@ -135,7 +135,7 @@ A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 <div style="text-align: right">[<a href="#contents">back to top</a>]</div>
 
 
-### 2.3 Gene-Level Analysis
+## 2.3 Gene-Level Analysis
 
 **Goal**:
 - Rather than describing the cellular heterogeneity, gene-level analysis uses this heterogeneity as context in which gene expression is to be understood
@@ -150,9 +150,7 @@ A brief note highlighting the workflow of single-cell RNA-seq data analysis.
 
 
 
-
-
-## References
+# References
 
 
 1. Current best practices in single-cell RNA-seq analysis: a tutorial. MD Luecken, FJ Theis. *Molecular systems biology*, 2019
