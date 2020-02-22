@@ -9,7 +9,7 @@ tags:
   - computational biology
 ---
 
-A track of [**Nature Methods**](https://www.nature.com/nmeth/) papers related to **transcriptome analysis** and **machine learning**.
+A track of [Nature Methods](https://www.nature.com/nmeth/) papers related to transcriptome analysis and machine learning.
 
 
 <p align="center">
