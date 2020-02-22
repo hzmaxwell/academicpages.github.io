@@ -85,6 +85,7 @@ author:
   bio              : "Computational biologist & Machine learning researcher"
   location         : "Beijing, China"
   employer         :
+  pubmed           :
   googlescholar    : "https://scholar.google.co.uk/citations?user=QqEjf18AAAAJ&hl=en"
   email            : "hezhen.cs@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -99,6 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : # "http://orcid.org/yourorcidurl"
