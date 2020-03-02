@@ -33,7 +33,7 @@ A track of [Nature Methods](https://www.nature.com/nmeth/) papers related to tra
   - Probabilistic cell typing enables fine mapping of closely related cell types in situ
   - Fast, sensitive and accurate integration of single-cell data with Harmony
 - Oct 2019
-- Exploring single-cell data with deep multitasking neural networks
+  - Exploring single-cell data with deep multitasking neural networks
 - Sept 2019
   - Supervised classification enables rapid annotation of cell atlases
   - Probabilistic cell-type assignment of single-cell RNA-seq for tumor microenvironment profiling
