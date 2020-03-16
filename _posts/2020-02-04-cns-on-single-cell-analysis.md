@@ -13,59 +13,58 @@ A track of CNS papers mainly related to single-cell analysis and machine learnin
 
 
 
-
 (Up to Mar 16, 2020)
 
 ## 2020
 
 Mar
-- TooManyCells identifies and visualizes relationships of single-cell clades. *Nat. Met.*
+- <span style="color:#52adc8">TooManyCells identifies and visualizes relationships of single-cell clades.</span> Nat. Met.
 
 Feb
-- Statistical analysis of spatial expression patterns for spatially resolved transcriptomic studies. *Nat. Met.*
-- Deriving disease modules from the compressed transcriptional space embedded in a deep autoencoder. *Nat. Comm.*
+- <span style="color:#52adc8">Statistical analysis of spatial expression patterns for spatially resolved transcriptomic studies.</span> Nat. Met.
+- <span style="color:#52adc8">Deriving disease modules from the compressed transcriptional space embedded in a deep autoencoder.</span> Nat. Comm.
 
 Jan
-- Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data. *Nat. Met.*
-- Surface protein imputation from single cell transcriptomes by deep neural networks. *Nat. Comm.*
-- Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks. *Nat. Comm.*
+- <span style="color:#52adc8">Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data.</span> Nat. Met.
+- <span style="color:#52adc8">Surface protein imputation from single cell transcriptomes by deep neural networks.</span> Nat. Comm.
+- <span style="color:#52adc8">Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks.</span> Nat. Comm.
 
 ## 2019
 
 Dec
-- Orchestrating single-cell analysis with Bioconductor. *Nat. Met.*
+- <span style="color:#52adc8">Orchestrating single-cell analysis with Bioconductor.</span> Nat. Met.
 
 Nov
-- Probabilistic cell typing enables fine mapping of closely related cell types in situ. *Nat. Met.*
-- Fast, sensitive and accurate integration of single-cell data with Harmony. *Nat. Met.*
+- <span style="color:#52adc8">Probabilistic cell typing enables fine mapping of closely related cell types in situ.</span> Nat. Met.
+- <span style="color:#52adc8">Fast, sensitive and accurate integration of single-cell data with Harmony.</span> Nat. Met.
 
 Oct
-- Exploring single-cell data with deep multitasking neural networks. *Nat. Met.*
+- <span style="color:#52adc8">Exploring single-cell data with deep multitasking neural networks.</span> Nat. Met.
 
 Sept
-- Supervised classification enables rapid annotation of cell atlases. *Nat. Met.*
-- Probabilistic cell-type assignment of single-cell RNA-seq for tumor microenvironment profiling. *Nat. Met.*
+- <span style="color:#52adc8">Supervised classification enables rapid annotation of cell atlases.</span> Nat. Met.
+- <span style="color:#52adc8">Probabilistic cell-type assignment of single-cell RNA-seq for tumor microenvironment profiling.</span> Nat. Met.
 
 Aug
-- Data denoising with transfer learning in single-cell transcriptomics. *Nat. Met.*
+- <span style="color:#52adc8">Data denoising with transfer learning in single-cell transcriptomics.</span> Nat. Met.
 
 Jul
-- scGen predicts single-cell perturbation responses. *Nat. Met.*
-- Joint analysis of heterogeneous single-cell RNA-seq dataset collections. *Nat. Met.*
+- <span style="color:#52adc8">scGen predicts single-cell perturbation responses.</span> Nat. Met.
+- <span style="color:#52adc8">Joint analysis of heterogeneous single-cell RNA-seq dataset collections.</span> Nat. Met.
 
 Jun
-- Pathway-level information extractor (PLIER) for gene expression data. *Nat. Met.*
+- <span style="color:#52adc8">Pathway-level information extractor (PLIER) for gene expression data.</span> Nat. Met.
 
 May
-- Benchmarking single cell RNA-sequencing analysis pipelines using mixture control experiments. *Nat. Met.*
+- <span style="color:#52adc8">Benchmarking single cell RNA-sequencing analysis pipelines using mixture control experiments.</span> Nat. Met.
 
 Apr
-- cisTopic: cis-regulatory topic modeling on single-cell ATAC-seq data. *Nat. Met.*
+- <span style="color:#52adc8">cisTopic: cis-regulatory topic modeling on single-cell ATAC-seq data.</span> Nat. Met.
 
 Mar
-- Scalable analysis of cell-type composition from single-cell transcriptomics using deep recurrent learning. *Nat. Met.*
-- Selene: a PyTorch-based deep learning library for sequence data. *Nat. Met.*
-- Deep-learning augmented RNA-seq analysis of transcript splicing. *Nat. Met.*
+- <span style="color:#52adc8">Scalable analysis of cell-type composition from single-cell transcriptomics using deep recurrent learning.</span> Nat. Met.
+- <span style="color:#52adc8">Selene: a PyTorch-based deep learning library for sequence data.</span> Nat. Met.
+- <span style="color:#52adc8">Deep-learning augmented RNA-seq analysis of transcript splicing.</span> Nat. Met.
 
 
 
