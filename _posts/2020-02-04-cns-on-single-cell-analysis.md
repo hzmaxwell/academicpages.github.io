@@ -16,7 +16,7 @@ A track of CNS papers mainly related to single-cell analysis and machine learnin
 
 (Up to Mar 16, 2020)
 
-
+---
 
 Mar 2020
 - TooManyCells identifies and visualizes relationships of single-cell clades. *Nat. Met.*
@@ -29,6 +29,8 @@ Jan 2020
 - Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data. *Nat. Met.*
 - Surface protein imputation from single cell transcriptomes by deep neural networks. *Nat. Comm*
 - Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks. *Nat. Comm*
+
+---
 
 Dec 2019
 - Orchestrating single-cell analysis with Bioconductor. *Nat. Met.*
