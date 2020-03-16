@@ -4,7 +4,7 @@ date: 2020-02-21
 permalink: /blogs/2020/02/note-on-scrna-seq-analysis/
 author_profile: false
 tags:
-  - transcriptomics
+  - single-cell analysis
   - computational biology
 ---
 
