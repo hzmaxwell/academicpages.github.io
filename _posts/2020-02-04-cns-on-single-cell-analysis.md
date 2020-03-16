@@ -27,8 +27,8 @@ Feb
 
 Jan
 - Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data. *Nat. Met.*
-- Surface protein imputation from single cell transcriptomes by deep neural networks. *Nat. Comm*
-- Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks. *Nat. Comm*
+- Surface protein imputation from single cell transcriptomes by deep neural networks. *Nat. Comm.*
+- Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks. *Nat. Comm.*
 
 ## 2019
 
