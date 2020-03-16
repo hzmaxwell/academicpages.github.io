@@ -12,9 +12,7 @@ tags:
 A track of [Nature Methods](https://www.nature.com/nmeth/) papers related to transcriptome analysis and machine learning.
 
 
-<p align="center">
-    <img src="https://hzmaxwell.github.io/images/nature-methods.jpg" width="600"/>
-</p>
+
 
 
 
