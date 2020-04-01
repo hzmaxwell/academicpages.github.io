@@ -13,13 +13,14 @@ A track of CNS papers mainly related to single-cell analysis and machine learnin
 
 
 
-(Up to Mar 24, 2020)
+(Up to Apr 1, 2020)
 
 ## 2020
 
 Mar
 - **Cardelino: computational integration of somatic clonal substructure and single-cell transcriptomes.** *Nat. met.*
 - **TooManyCells identifies and visualizes relationships of single-cell clades.** *Nat. met.*
+- **Integrative differential expression and gene set enrichment analysis using summary statistics for scRNA-seq studies.** *Nat. comm.*
 - **Latent periodic process inference from single-cell RNA-seq data.** *Nat. comm.*
 
 Feb
