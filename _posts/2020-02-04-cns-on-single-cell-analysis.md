@@ -13,9 +13,13 @@ A track of CNS papers mainly related to single-cell analysis and machine learnin
 
 
 
-(Up to Apr 22, 2020)
+(Up to May 1, 2020)
 
 ## 2020
+
+Apr
+- **Accurate estimation of cell composition in bulk expression through robust integration of single-cell information.** *Nat. comm.*
+- **Large scale active-learning-guided exploration for in vitro protein production optimization.** *Nat. comm.*
 
 Mar
 - **Cardelino: computational integration of somatic clonal substructure and single-cell transcriptomes.** *Nat. met.*
