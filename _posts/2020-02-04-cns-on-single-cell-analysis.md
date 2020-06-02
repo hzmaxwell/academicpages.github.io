@@ -13,11 +13,12 @@ A track of CNS papers mainly related to single-cell analysis and machine learnin
 
 
 
-(Up to May 16, 2020)
+(Up to June 2, 2020)
 
 ## 2020
 
 May
+- **Putative cell type discovery from single-cell gene expression data.** *Nat. met.*
 - **Souporcell: robust clustering of single-cell RNA-seq data by genotype without reference genotypes.** *Nat. met.*
 - **Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis.** *Nat. comm.*
 
