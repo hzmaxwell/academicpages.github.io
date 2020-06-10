@@ -52,7 +52,7 @@ Reference: [Key trends from NeurIPS 2019](https://huyenchip.com/2019/12/18/key-t
   - [Applications: Computational Biology and Bioinformatics](https://neurips.cc/Conferences/2019/ScheduleMultitrack?session=15652) (Posters, Dec 12)
   - [Machine Learning for Health (ML4H): What Makes Machine Learning in Medicine Different?](https://ml4health.github.io/2019/) (Workshop, Dec 13)
   - [Learning Meaningful Representations of Life](https://lmrl-bio.github.io/) (Workshop, Dec 13)
-  - [Machine Learning in Computational Biology](https://sites.google.com/cs.washington.edu/mlcb/) (Workshop co-located with NeurIPS, Dec 14)
+  - [Machine Learning in Computational Biology](https://sites.google.com/cs.washington.edu/mlcb2019/) (Workshop co-located with NeurIPS, Dec 14)
 
 
 
