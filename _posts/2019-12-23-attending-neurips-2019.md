@@ -54,17 +54,3 @@ Reference: [Key trends from NeurIPS 2019](https://huyenchip.com/2019/12/18/key-t
   - [Learning Meaningful Representations of Life](https://lmrl-bio.github.io/) (Workshop, Dec 13)
   - [Machine Learning in Computational Biology](https://sites.google.com/cs.washington.edu/mlcb2019/) (Workshop co-located with NeurIPS, Dec 14)
 
-
-
-## 4. Thoughts
-
-- Existing machine learning techniques are readily applicable for many biological problems.
-- Poster sessions are my favourite.
-- Social events can be more efficient if planned.
-- Find time to sneak out :)
-- Attending such a conference is not easy (with many things to do), but really worthy!
-
-
-
-
-
