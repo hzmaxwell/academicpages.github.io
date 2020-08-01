@@ -12,12 +12,13 @@ tags:
 A track of CNS papers mainly related to single-cell analysis and machine learning.
 
 
-(Up to July 17, 2020)
+(Up to Aug. 1, 2020)
 
 
 ## 2020
 
 Jul
+- **VoPo leverages cellular heterogeneity for predictive modeling of single-cell data.** *Nat. comm.*
 - **Deep learning decodes the principles of differential gene expression.** *Nat. mach. intell.*
 - **Deep learning for genomics using Janggu.** *Nat. comm.*
 - **Searching Large-Scale scRNA-seq Databases via Unbiased Cell Embedding With Cell BLAST.** *Nat. comm.*
