@@ -12,10 +12,13 @@ tags:
 A track of CNS papers mainly related to single-cell analysis and machine learning.
 
 
-(Up to Aug. 1, 2020)
+(Up to Aug. 5, 2020)
 
 
 ## 2020
+
+Aug
+- **A deep learning model to predict RNA-Seq expression of tumours from whole slide images.** *Nat. comm.*
 
 Jul
 - **VoPo leverages cellular heterogeneity for predictive modeling of single-cell data.** *Nat. comm.*
