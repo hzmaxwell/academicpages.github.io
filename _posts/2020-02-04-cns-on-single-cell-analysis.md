@@ -12,10 +12,13 @@ tags:
 A track of CNS papers mainly related to single-cell analysis and machine learning.
 
 
-(Up to Aug. 5, 2020)
+(Up to Sept. 3, 2020)
 
 
 ## 2020
+
+Sept
+- **Representation of features as images with neighborhood dependencies for compatibility with convolutional neural networks.** *Nat. comm.*
 
 Aug
 - **A deep learning model to predict RNA-Seq expression of tumours from whole slide images.** *Nat. comm.*
