@@ -12,10 +12,13 @@ tags:
 A track of CNS papers mainly related to single-cell analysis and machine learning.
 
 
-(Up to Sept. 3, 2020)
+(Up to Oct. 22, 2020)
 
 
 ## 2020
+
+Oct
+- **MARS: discovering novel cell types across heterogeneous single-cell experiments.** *Nat. met.*
 
 Sept
 - **Representation of features as images with neighborhood dependencies for compatibility with convolutional neural networks.** *Nat. comm.*
