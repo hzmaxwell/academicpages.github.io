@@ -12,12 +12,13 @@ tags:
 A track of CNS papers mainly related to single-cell analysis and machine learning.
 
 
-(Up to Oct. 22, 2020)
+(Up to Oct. 27, 2020)
 
 
 ## 2020
 
 Oct
+- **A multiresolution framework to characterize single-cell state landscapes.** *Nat. comm.*
 - **MARS: discovering novel cell types across heterogeneous single-cell experiments.** *Nat. met.*
 
 Sept
