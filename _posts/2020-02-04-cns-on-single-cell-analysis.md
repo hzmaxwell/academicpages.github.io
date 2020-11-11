@@ -12,10 +12,10 @@ tags:
 A track of CNS papers mainly related to single-cell analysis and machine learning.
 
 
-(Up to Oct. 27, 2020)
-
-
 ## 2020
+
+Nov
+- **An interpretable deep-learning architecture of capsule networks for identifying cell-type gene expression programs from single-cell RNA-sequencing data.** *Nat. mach. intell.*
 
 Oct
 - **A multiresolution framework to characterize single-cell state landscapes.** *Nat. comm.*
@@ -29,6 +29,7 @@ Aug
 
 Jul
 - **VoPo leverages cellular heterogeneity for predictive modeling of single-cell data.** *Nat. comm.*
+- **A unified framework for integrative study of heterogeneous gene regulatory mechanisms.** *Nat. mach. intell.*
 - **Deep learning decodes the principles of differential gene expression.** *Nat. mach. intell.*
 - **Deep learning for genomics using Janggu.** *Nat. comm.*
 - **Searching Large-Scale scRNA-seq Databases via Unbiased Cell Embedding With Cell BLAST.** *Nat. comm.*
