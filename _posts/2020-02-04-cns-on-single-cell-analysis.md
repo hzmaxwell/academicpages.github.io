@@ -14,6 +14,9 @@ A track of CNS papers mainly related to single-cell analysis and machine learnin
 
 ## 2020
 
+Dec
+- **Deep learning suggests that gene expression is encoded in all parts of a co-evolving interacting gene regulatory structure.** *Nat. comm.*
+
 Nov
 - **Ensemble dimensionality reduction and feature gene extraction for single-cell RNA-seq data.** *Nat. comm.*
 - **An interpretable deep-learning architecture of capsule networks for identifying cell-type gene expression programs from single-cell RNA-sequencing data.** *Nat. mach. intell.*
