@@ -15,6 +15,7 @@ A track of CNS papers mainly related to single-cell analysis and machine learnin
 ## 2020
 
 Dec
+- **Gene set inference from single-cell sequencing data using a hybrid of matrix factorization and variational autoencoders.** *Nat. mach. intell.*
 - **Deep learning suggests that gene expression is encoded in all parts of a co-evolving interacting gene regulatory structure.** *Nat. comm.*
 
 Nov
