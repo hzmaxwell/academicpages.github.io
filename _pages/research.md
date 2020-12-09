@@ -5,12 +5,12 @@ author_profile: false
 ---
 
 
-## Current Projects
+## Current
 
 **<span style="color:#52adc8">Deep generative models for single-cell analysis</span>**<br>
 
 
-## Past Projects
+## Past
 
 **<span style="color:#52adc8">Unsupervised multi-object tracking for video surveillance</span>**<br>
 
