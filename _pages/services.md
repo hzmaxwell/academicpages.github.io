@@ -7,8 +7,9 @@ author_profile: false
 
 ## Reviewer/PC Member
 
-**2021**: AAAI
 
-**2020**: NeurIPS, ICML, AAAI
+**AAAI**: 2020, 2021
 
-**2019**: NeurIPS (top 50%), ICML
+**ICML**: 2019, 2020, 2021
+
+**NeurIPS**: 2019, 2020
