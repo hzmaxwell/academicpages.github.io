@@ -15,6 +15,7 @@ A track of CNS papers mainly related to single-cell analysis and machine learnin
 ## 2021
 
 Jan
+- **Deep neural networks identify sequence context features predictive of transcription factor binding.** *Nat. mach. intell.*
 - **Benchmarking joint multi-omics dimensionality reduction approaches for the study of cancer.** *Nat. comm.*
 - **Multi-domain translation between single-cell imaging and sequencing data using autoencoders.** *Nat. comm.*
 
