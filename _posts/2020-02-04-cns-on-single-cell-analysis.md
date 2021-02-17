@@ -15,6 +15,8 @@ A track of CNS papers mainly related to single-cell analysis and machine learnin
 ## 2021
 
 Feb
+- **Joint probabilistic modeling of single-cell multi-omic data with totalVI.** *Nat. met.*
+- **Fast and precise single-cell data analysis using a hierarchical autoencoder.** *Nat. comm.*
 - **Improving representations of genomic sequence motifs in convolutional networks with exponential activations.** *Nat. mach. intell.*
 
 Jan
