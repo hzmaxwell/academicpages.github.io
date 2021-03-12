@@ -14,6 +14,9 @@ A track of CNS papers mainly related to single-cell analysis and machine learnin
 
 ## 2021
 
+Mar
+- **Deep learning-based enhancement of epigenomics data with AtacWorks.** *Nature Communications*
+
 Feb
 - **ArchR is a scalable software package for integrative single-cell chromatin accessibility analysis.** *Nature Genetics*
 - **Joint probabilistic modeling of single-cell multi-omic data with totalVI.** *Nature Methods*
