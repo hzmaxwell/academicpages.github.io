@@ -15,6 +15,7 @@ A track of CNS papers mainly related to single-cell analysis and machine learnin
 ## 2021
 
 Mar
+- **An automated framework for efficiently designing deep convolutional neural networks in genomics.** *Nature Machine Intelligence*
 - **Deep learning-based enhancement of epigenomics data with AtacWorks.** *Nature Communications*
 
 Feb
